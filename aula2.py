@@ -1,3 +1,4 @@
+# Exercício 1 - Média Escolar
 nota1 = int(input('Digite a primeira nota: '))
 nota2 = int(input('Digite a segunda nota: '))
 nota3 = int(input('Digite a terceira nota: '))
@@ -17,7 +18,7 @@ elif (resultado<5) and (resultado>=0):
 else :
     print ('Valor Inválido')
 
-
+# Exercício 2 - Números Primos
 indice = 1
 limite = 100
 controle = 0
