@@ -9,3 +9,5 @@ Aula 2 - Funções Condicionais (If, Else e Elif) e Função de Repetição (Whi
 Aula 3 - While (continuação), listas, for e jogo de adivinhação
 
 Aula 4 - Jokenpô
+
+Aula 5 - Notebook e Cara ou Coroa
