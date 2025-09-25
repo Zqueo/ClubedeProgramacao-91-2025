@@ -11,7 +11,7 @@ def multiplicacao(val1, val2):
     print (resultado)
     
 def divisao(val1, val2):
-    if val2 = 0:
+    if val2 == 0:
         print('erro')
     else:
         resultado = val1 / val2
